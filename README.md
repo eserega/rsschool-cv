@@ -1,1 +1,1 @@
-# rsschool-cv
+https://eserega.github.io/rsschool-cv/cv
