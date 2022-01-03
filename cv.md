@@ -4,7 +4,6 @@
 ***
 ## *Contacts*
 * Location: Moscow, Russian
-* Phone: +7 909 9554455
 * Email: eserega@gmail.com
 * GitHub: eserega
 ***
@@ -17,18 +16,12 @@ I am 46 years old. I want to learn new things.
 * git & Github
 ***
 ## *Code example*
-    <!DOCTYPE html>
-    <html>
-    <head>
-	    <title>Заголовок</title>
-    </head>
-    <body>
-	    "Hello World!"
-    </body>
-    </html>
+   <p>"Hello World!"</p>
 ***
+
 ## Experience
 ***
+
 ## Education
 Moscow Aviation Institute (MAI), Applied Mathematics
 ***

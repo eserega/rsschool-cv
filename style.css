@@ -1,11 +1,22 @@
-.container-header {
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }   
+
+@font-face {
+    font-family: Roboto;
+    src: url("assets/fonts/Roboto-Black.ttf");
+   }
+
+body {
     display: flex;
-}
+    flex-direction: column;
+    justify-content: space-between;
+  }
 
-.container-main {
-display: flex;
-}
-
-.container-footer {
-display: flex;
-}
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    border: 1px solid red
+  }
